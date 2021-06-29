@@ -14,5 +14,7 @@
 ### - Select frames folder url
 ### - Extract faces to a new folder
 
+![alt text](https://github.com/marcelopgama/Face-Swap/blob/master/Captura%20de%20Tela%20(3).png)
+
 
 
