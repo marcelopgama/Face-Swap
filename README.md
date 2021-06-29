@@ -6,7 +6,7 @@
 ### - Insert base image first
 ### - Inster image wich contains the face to be swaped
 
-![alt text](https://github.com/marcelopgama/Gerenciador-de-Notas-Fiscais/blob/master/BRASCAM.png)
+![alt text](https://github.com/marcelopgama/Face-Swap/blob/master/Captura%20de%20Tela%20(2).png)
 
 ## - Face extractor
 ### - First serach for video file
